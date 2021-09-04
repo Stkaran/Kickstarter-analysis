@@ -10,7 +10,7 @@ The two main focuses of this analysis were the launch dates of campaigns and the
 As you will see below, the best time for starting a campaign was between the months of May and June. As the year went on, there was a steady decline in the amount of successful campaigns, with a short-lived rise in October.
 ![](https://github.com/Stkaran/Kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-When choosing to what goal, there appear to be two categories that are the safest bets. Unsuprisingly, the goals that fell under $5000 found a great deal of success and this is most likely due to the fact that these campaigns don't need as many backers in order for the campaign to be successful. The other sweet spot for successful campaigns was between $35000 and $45000. However, the majority of these productions were put on by whole theaters, which ususally already have dedicated following. So, while higher goals may be possible, a smaller goal has the best chance of finding success. 
+When choosing to what goal to set, there appear to be two categories that are the safest bets. Unsuprisingly, the goals that fell under $5000 found a great deal of success and this is most likely due to the fact that these campaigns don't need as many backers in order for the campaign to be successful. The other sweet spot for successful campaigns was between $35000 and $45000. However, the majority of these productions were put on by whole theaters, which ususally already have dedicated following. So, while higher goals may be possible, a smaller goal has the best chance of finding success. 
 ![](https://github.com/Stkaran/Kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ## Challenges
