@@ -14,8 +14,9 @@ When choosing to what goal to set, there appear to be two categories that are th
 ![](https://github.com/Stkaran/Kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ## Challenges
+The biggest challenge of this analysis was finding the data that was most applicalble to your goals. The initial data set consistied of over 4000 entries, however the majority of them were in different fields that did help when looking for successful play campaigns. In order to overcome this, we had to narrow the data down focus specifically on theater productions and then plays. It is also important to note that there were a few successful outliers. These cases make it appear as success increases past the $50000 mark, but these are exceptions to the major trends and should not be used as evidence to start a campaign with a high fundraising goal.
 
-## Results
+## Result
 
 - As stated before, the best time to launch a campaign would be between May and June. This could be due to the fact it is the beginning other the summer season, and more people have time to engage in research for things of intersest. The absolute worst time to start a campaign is December as many people will likely be spending time with family.
 
